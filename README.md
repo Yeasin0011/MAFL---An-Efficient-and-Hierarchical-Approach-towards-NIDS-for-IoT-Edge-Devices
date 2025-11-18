@@ -1,6 +1,6 @@
 ## 🌐 MAFL: Metric Annealed Federated Learning for IoT NIDS
 
-[cite_start]This repository features the complete implementation of **Metric Annealed Federated Learning (MAFL)**, an advanced and highly efficient framework for **Network Intrusion Detection Systems (NIDS)** tailored for deployment on **resource-constrained IoT edge devices**[cite: 282, 284]. [cite_start]By combining a specialized hierarchical model architecture with a novel aggregation strategy, MAFL addresses the core challenges of Federated Learning (FL) in distributed IoT networks: handling **non-IID data**, minimizing **computational overhead**, and reducing **communication costs**[cite: 283].
+This repository features the complete implementation of **Metric Annealed Federated Learning (MAFL)**, an advanced and highly efficient framework for **Network Intrusion Detection Systems (NIDS)** tailored for deployment on **resource-constrained IoT edge devices**[cite: 282, 284]. [cite_start]By combining a specialized hierarchical model architecture with a novel aggregation strategy, MAFL addresses the core challenges of Federated Learning (FL) in distributed IoT networks: handling **non-IID data**, minimizing **computational overhead**, and reducing **communication costs**[cite: 283].
 
 ---
 
